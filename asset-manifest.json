@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/answers-table-gh-pages/static/css/main.25e6a77f.css",
+    "main.js": "/answers-table-gh-pages/static/js/main.1200b184.js",
+    "static/js/787.28cb0dcd.chunk.js": "/answers-table-gh-pages/static/js/787.28cb0dcd.chunk.js",
+    "static/media/color.png": "/answers-table-gh-pages/static/media/color.6441e63a57ccc5105bad.png",
+    "index.html": "/answers-table-gh-pages/index.html",
+    "main.25e6a77f.css.map": "/answers-table-gh-pages/static/css/main.25e6a77f.css.map",
+    "main.1200b184.js.map": "/answers-table-gh-pages/static/js/main.1200b184.js.map",
+    "787.28cb0dcd.chunk.js.map": "/answers-table-gh-pages/static/js/787.28cb0dcd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.25e6a77f.css",
+    "static/js/main.1200b184.js"
+  ]
+}
